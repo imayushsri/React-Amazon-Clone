@@ -47,12 +47,6 @@ const Footer = () => {
                     <li>Advertise Your Products</li>
                 </a>
                 <a className="td" href="#">
-                    <li>Self-Publish with Us</li>
-                </a>
-                <a className="td" href="#">
-                    <li>Host an Amazon Hub</li>
-                </a>
-                <a className="td" href="#">
                     <li>› See More Make Money with Us</li>
                 </a>
             </ul>
