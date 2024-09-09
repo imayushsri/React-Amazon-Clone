@@ -380,7 +380,7 @@ ul a li {
     border-radius: 1vw;
     margin-left: 1%;
     margin-right: 1%;
-    /* transform: translateY(-2vw); */
+    transform: translateY(-1vw);
    }
    .bars{
     height: 0.5vw;
