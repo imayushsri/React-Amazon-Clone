@@ -380,7 +380,7 @@ ul a li {
     border-radius: 1vw;
     margin-left: 1%;
     margin-right: 1%;
-    transform: translateY(-2vw);
+    /* transform: translateY(-2vw); */
    }
    .bars{
     height: 0.5vw;
@@ -398,7 +398,7 @@ ul a li {
 .nav-search{
     margin-left:2%;
     height: 6vw;
-    transform: translateY(-1.7vw);
+    /* transform: translateY(-1.7vw); */
     width: 60%;
 }
 .search-select{
@@ -410,7 +410,7 @@ ul a li {
     display: flex;
     align-items: center;
     justify-content: center;
-    transform: translateY(-1.5vw);
+    /* transform: translateY(-1.5vw); */
 }
 .logo {
     background-image: url('../public/images/amazon_logo.png');
